@@ -1,0 +1,9 @@
+openai
+chromadb
+python-dotenv
+fastapi
+uvicorn
+pydantic
+streamlit
+numpy
+sentence-transformers
